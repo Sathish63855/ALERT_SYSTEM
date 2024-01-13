@@ -26,12 +26,6 @@ Clone this repository to your local machine.
 Install the required packages using the command pip install -r requirements.txt.
 Run the main.py file using the command python main.py.
 Follow the instructions on the graphical user interface window to use the system.
-Demo
-Here is a screenshot of the graphical user interface window:
-
-Here is a video of the system in action:
-
-Video
 
 License and Disclaimer
 This project is licensed under the MIT License. See the LICENSE file for more details.
